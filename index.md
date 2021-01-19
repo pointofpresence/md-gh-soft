@@ -1,3 +1,6 @@
+# Soft.ReSampled.RU
+<!-- copyright: ReSampled -->
+
 # Утилиты
 ## Интернет
 * **Google Chrome**
